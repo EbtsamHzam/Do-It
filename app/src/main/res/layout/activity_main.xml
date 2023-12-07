@@ -9,11 +9,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textStyle="30"
-            android:textColor="@android:color/"Red"
+            android:textColor="@android:color/"yellow"
             android:layout_marginStart="16dp"
             android:layout_marginBottom="16dp"
             android:layout_marginTop="16dp"
-            android:textSize="16sp"
+            android:textSize="32sp"
             android:text="@string/tasks" />
 
         <androidx.recyclerview.widget.RecyclerView
